@@ -1,0 +1,11 @@
+boltzd
+boltzcli
+.boltz-lnd/boltz.toml
+boltz.toml
+macaroons
+admin.macaroon
+readonly.macaroon
+tls.*
+boltz.db
+boltz.log
+lnd/*
