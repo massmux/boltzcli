@@ -8,6 +8,3 @@ services:
         restart: on-failure
         volumes:
           - ${PWD}/.boltz-lnd:/root/.boltz-lnd
-            #ports:
-            #- 9002:9002
-            #- 9003:9003
